@@ -2,9 +2,10 @@
 
 - 🎓 **Estudante de Ciência da Computação**  
 - 🌱 Atualmente focado em **Desenvolvimento Web** e **Projetos com Arduino**  
-- ⚡ Apaixonado por tecnologia, eletrônica e inovação  
+- ⚡ Apaixonado por tecnologia, eletrônica e inovação
+
 - 📫 Entre em contato:  
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/marco_sssilva09?])  
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_sssilva09/profilecard/?igsh=MTRxY2pyY2lwZ2d0aQ%3D%3D)])  
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosssilva0903@hotmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcossilva09?)
 
@@ -34,14 +35,7 @@
 
 ## 📊 **Estatísticas do GitHub**
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcossil09&show_icons=true&theme=tokyonight)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcossil09&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 **Contribuições**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcossil09&theme=tokyonight&hide_border=false)
 
 ---
 
