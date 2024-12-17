@@ -5,7 +5,7 @@
 - ⚡ Apaixonado por tecnologia, eletrônica e inovação
 
 - 📫 Entre em contato:  
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_sssilva09/profilecard/?igsh=MTRxY2pyY2lwZ2d0aQ%3D%3D)])  
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marco_sssilva09/profilecard/?igsh=MTRxY2pyY2lwZ2d0aQ%3D%3D)  
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosssilva0903@hotmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcossilva09?)
 
